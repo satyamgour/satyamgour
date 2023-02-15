@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satyamgour
 - 
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning CodeIgniter
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me hii@satyamgour.com
 
 
